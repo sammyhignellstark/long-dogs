@@ -1,16 +1,21 @@
 * {
     border: 1px solid #665544;
-    background-color: #efefef;
+    background-color: rgb(214, 174, 255);
+
     padding: inherit;} 
 
+    body {
+        font-family: comic sans-serif;
+        background-color: rgb(214, 174, 255);}
 
 h1 {
     background-color: aquamarine;
 }
 
-body {
-    font-family: comic sans-serif;
-    background-color: rgb(214, 174, 255);}
-
 h1 {
     color: rgb(240, 170, 64);}
+
+section {
+    text-align: center;
+}
+
